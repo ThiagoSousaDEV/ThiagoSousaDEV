@@ -5,8 +5,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagomaisweb@gmail.com)
 
 <div>
-  <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=thiagosousadev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosousadev&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=thiagosousadev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" style="max-width: 100%;"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosousadev&layout=compact&langs_count=7&theme=algolia" style="max-width: 100%;"/>
 </div>
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
