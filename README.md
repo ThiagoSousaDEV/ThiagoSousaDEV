@@ -32,8 +32,6 @@
   <img align="center" alt="vue" src="https://img.shields.io/badge/Vue.js-35495E?flat&logo=vue.js&logoColor=4FC08D" />
 </div>
 
- <hr>
-
 <h2> 🧔 Quando não estou desenvolvendo... </h2>
 
 - ✨ **Hobbies**: Fotografia, Desing, Streaming
