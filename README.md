@@ -12,7 +12,7 @@
 - 📄 **Tecnólogo** em **Análise e Desenvolvimento de Sistemas**
 - 💻 Desenvolvedor Front-End
 - 🗺️ Sobral - CE
-- 📝 [Currículo]("https://www.thiagosousadev.site/")
+- 📝 [Currículo](https://www.thiagosousadev.site)
 
 <h2>📃 Stats</h2>
 
