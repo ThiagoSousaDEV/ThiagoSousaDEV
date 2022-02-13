@@ -12,7 +12,7 @@
 - 📄 **Tecnólogo** em **Análise e Desenvolvimento de Sistemas**
 - 💻 Desenvolvedor Front-End
 - 🗺️ Sobral - CE
-- 📝 [Currículo]("")
+- 📝 [Currículo]("https://www.thiagosousadev.site/")
 
 <h2>📃 Stats</h2>
 
@@ -35,7 +35,7 @@
 <h2> 🧔 Quando não estou desenvolvendo... </h2>
 
 - ✨ **Hobbies**: Fotografia, Desing, Streaming
-- 🎮 **Video Games**: efootball PES 2021, BF1 
+- 🎮 **jogos**: efootball PES 2021, BF1 
 - 🎥 **Filmes**: Interestelar, Perdido em Marte
 - 📺 **Séries**: Supernatural, Under The Dome
 - 🎵 **Musica**: Forró Antigo
