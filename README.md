@@ -16,8 +16,8 @@
 <h2>📃 Stats</h2>
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thiagosousadev&show_icons=true&theme=onedark&include_all_commits=true&border_radius=8&hide_border=true&count_private=true" style="max-width: 100%;"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosousadev&border_radius=8&hide_border=true&layout=compact&langs_count=7&theme=onedark" style="max-width: 100%;"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thiagosousadev&show_icons=true&theme=algolia&include_all_commits=true&border_radius=8&hide_border=true&count_private=true" style="max-width: 100%;"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosousadev&border_radius=8&hide_border=true&layout=compact&langs_count=7&theme=algolia" style="max-width: 100%;"/>
 </div>
 
 
