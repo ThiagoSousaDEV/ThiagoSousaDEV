@@ -3,9 +3,9 @@
 </h1>
 
 <p align="center">   
-  <a href="mailto:thiagomaisweb@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-contato@thiagosousadev.site-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/thiagosousadev" target="_blank"><img src="https://img.shields.io/badge/linkedin-Thiago Sousa-blue?style=for-the-badge&logo=linkedin"></a><br> 
-  <a href="https://thiagosousadev.site" target="_blank"><img src="https://img.shields.io/badge/website-thiagosousadev.site-FF4500?style=for-the-badge&"></a>
+  <a href="mailto:thiagomaisweb@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-contato@thiagosousadev.site-red?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/thiagosousadev" target="_blank"><img src="https://img.shields.io/badge/linkedin-blue?style=flat&logo=linkedin"></a>
+  <a href="https://thiagosousadev.site" target="_blank"><img src="https://img.shields.io/badge/website-thiagosousadev.site-FF4500?style=flat&"></a>
 </p>
 
 - 📄 **Tecnólogo** em **Análise e Desenvolvimento de Sistemas**
