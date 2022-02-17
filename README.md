@@ -25,14 +25,14 @@
 
 <table align= "center">
   <tr>
-     <td align="center" width="height="100%" height="100% >
-      <a href="#" >
+     <td align="center" width="140" height="112.43">
+      <a href="#">
         <img src="./html5logo.svg" width="48" height="48" alt="HTML5" />
       </a>
       <br>HTML 5
     </td>
     <td align="center"  width="140" height="112.43">
-      <a href="#" >
+      <a href="#">
         <img src="./css3logo.svg" width="48" height="48" alt="CSS 3" />
       </a>
       <br>CSS3
