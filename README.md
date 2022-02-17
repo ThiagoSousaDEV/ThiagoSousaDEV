@@ -32,13 +32,13 @@
       <br>HTML 5
     </td>
     <td align="center"  width="140" height="112.43">
-      <a href="#macropower-tech" >
+      <a href="#" >
         <img src="./css3logo.svg" width="48" height="48" alt="CSS 3" />
       </a>
       <br>CSS3
     </td>
     <td align="center"  width="140" height="112.43">
-      <a href="">
+      <a href="#">
         <img src="./bootstraplogo.svg" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>Bootstrap
@@ -51,7 +51,7 @@
       <br>Vue.js
     </td>
       <td align="center"  width="140" height="112.43">
-      <a href="#macropower-tech">
+      <a href="#">
         <img src="./javascriptlogo.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
