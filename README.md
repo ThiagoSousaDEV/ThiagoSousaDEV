@@ -3,10 +3,9 @@
 </h1>
 
 <p align="center">   
-  <a href="mailto:thiagomaisweb@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/thiagosousadev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href="https://www.instagram.com/thiagodownloads" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://thiagosousadev.site" target="_blank"><img src="https://img.shields.io/website?label=thiagosousadev.site&style=for-the-badge&&logoColor=F0DB4F&url=https://thiagosousadev.site"></a>
+  <a href="mailto:thiagomaisweb@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-contato@thiagosousadev.site-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/thiagosousadev" target="_blank"><img src="https://img.shields.io/badge/linkedin-Thiago Sousa-blue?style=for-the-badge&logo=linkedin"></a> 
+  <a href="https://thiagosousadev.site" target="_blank"><img src="https://img.shields.io/badge/website-thiagosousadev.site-FF4500?style=for-the-badge&"></a>
 </p>
 
 - 📄 **Tecnólogo** em **Análise e Desenvolvimento de Sistemas**
@@ -23,14 +22,48 @@
 
 
 <h2>⚡ Skills</h2>
-<div align="center">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img align="center" alt="bs" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=flatlogo=php&logoColor=white" />
-  <img align="center" alt="vue" src="https://img.shields.io/badge/Vue.js-35495E?flat&logo=vue.js&logoColor=4FC08D" />
-</div>
+
+<table align= "center">
+  <tr>
+     <td align="center" width="height="100%" height="100% >
+      <a href="#" >
+        <img src="./html5logo.svg" width="48" height="48" alt="HTML5" />
+      </a>
+      <br>HTML 5
+    </td>
+    <td align="center"  width="140" height="112.43">
+      <a href="#macropower-tech" >
+        <img src="./css3logo.svg" width="48" height="48" alt="CSS 3" />
+      </a>
+      <br>CSS3
+    </td>
+    <td align="center"  width="140" height="112.43">
+      <a href="">
+        <img src="./bootstraplogo.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+    <tr>
+    <td align="center"  width="140" height="112.43">
+      <a href="#">
+        <img src="./vuejslogo.svg" width="48" height="48" alt="Vue.js" />
+      </a>
+      <br>Vue.js
+    </td>
+      <td align="center"  width="140" height="112.43">
+      <a href="#macropower-tech">
+        <img src="./javascriptlogo.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+       <td align="center"  width="140" height="112.43">
+      <a href="#">
+        <img src="./phplogo.svg" width="48" height="48" alt="PHP" />
+      </a>
+      <br>PHP
+    </td>
+   </tr> 
+</table>
 
 <h2> 🧔 Quando não estou desenvolvendo... </h2>
 
