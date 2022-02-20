@@ -29,7 +29,7 @@
       <a href="#">
         <img src="./html5logo.svg" width="48" height="48" alt="HTML5" />
       </a>
-      <br>HTML 5
+      <br>HTML5
     </td>
     <td align="center"  width="140" height="112.43">
       <a href="#">
