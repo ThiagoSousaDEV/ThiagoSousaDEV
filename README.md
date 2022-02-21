@@ -11,7 +11,6 @@
 - 📄 **Tecnólogo** em **Análise e Desenvolvimento de Sistemas**
 - 💻 Desenvolvedor Front-End
 - 🗺️ Sobral - CE
-- 📝 [CV/Currículo](https://github.com/ThiagoSousaDEV/ThiagoSousaDEV/blob/main/CV-ThiagoSousa.pdf "CV/Resume")
 
 <h2>📃 Stats</h2>
 
