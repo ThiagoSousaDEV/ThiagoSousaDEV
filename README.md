@@ -10,7 +10,7 @@
 
 - 📄 **Tecnólogo** em **Análise e Desenvolvimento de Sistemas**
 - 💻 Desenvolvedor Front-End
-- 🗺️ Sobral - CE
+- 🗺️ Meruoca - CE
 
 <h2>📃 Stats</h2>
 
