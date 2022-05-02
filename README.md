@@ -10,7 +10,7 @@
 
 - 📄 **Tecnólogo** em **Análise e Desenvolvimento de Sistemas**
 - 💻 Desenvolvedor Front-End
-- 🗺️ Meruoca - CE
+- 🗺️ Meruoca, Ceará, Brasil
 
 <h2>📃 Stats</h2>
 
