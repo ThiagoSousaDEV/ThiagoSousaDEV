@@ -5,8 +5,9 @@
 <h2>😎 About</h2>
 
 <p align="center">   
-[![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge&logo=github)]() [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)]() 
- [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)]()
+  <a href="mailto:contato@thiagosousadev.net" target="_blank"><img src="https://img.shields.io/badge/Email-contato@thiagosousadev.net-red?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/thiagosousadev" target="_blank"><img src="https://img.shields.io/badge/linkedin-blue?style=flat&logo=linkedin"></a>
+  <a href="https://thiagosousadev.net" target="_blank"><img src="https://img.shields.io/badge/website-thiagosousadev.net-FF4500?style=flat"></a>
 </p>
 
 I'm a Front-End Developer with international experience and I work with a variety of technologies, including HTML, CSS, Bootstrap, JavaScript, PHP (Symfony) and many others. In addition, I use Git for code versioning and Agile Methodologies to facilitate the workflow. I also have UI Design skills and use Adobe XD to build screens.
