@@ -8,9 +8,7 @@
   <a href="https://thiagosousadev.net" target="_blank"><img src="https://img.shields.io/badge/website-thiagosousadev.net-FF4500?style=flat"></a>
 </p>
 
-- 📄 **Tecnólogo** em **Análise e Desenvolvimento de Sistemas**
-- 💻 Desenvolvedor Front-End
-- 🗺️ Meruoca, Ceará, Brasil
+I'm a Front-End Developer with international experience and I work with a variety of technologies, including HTML, CSS, Bootstrap, JavaScript, PHP (Symfony) and many others. In addition, I use Git for code versioning and Agile Methodologies to facilitate the workflow. I also have UI Design skills and use Adobe XD to build screens.
 
 <h2>📃 Stats</h2>
 
