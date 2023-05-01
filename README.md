@@ -1,19 +1,17 @@
 <h1 align="center">
-  Olá! Eu sou o Thiago 🖐️
+  Hello World 🌎
 </h1>
 
 <h2>😎 About</h2>
 
 <p align="center">   
-  <a href="mailto:contato@thiagosousadev.net" target="_blank"><img src="https://img.shields.io/badge/Contact-Gmail-blue?style=for-the-badge&logo=gmail"></a>
-  
+   <a href="mailto:contato@thiagosousadev.net" target="_blank"><img src="https://img.shields.io/badge/Contact-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/thiagosousadev" target="_blank"><img src="https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=linkedin"></a>
-  
-  
-  
+  <a href="https://www.linkedin.com/in/thiagosousadev" target="_blank"><img src="https://img.shields.io/badge/WebSite-thiagosousadev.net-006E93?style=for-the-badge&logo=rss&logoColor=white"></a>
 </p>
+I am Thiago 🧔
 
-I'm a Front-End Developer with international experience and I work with a variety of technologies, including HTML, CSS, Bootstrap, JavaScript, PHP (Symfony) and many others. In addition, I use Git for code versioning and Agile Methodologies to facilitate the workflow. I also have UI Design skills and use Adobe XD to build screens.
+Desenvolvedor Front-End com experiência internacional e trabalho com uma variedade de tecnologias, incluindo HTML, CSS, Bootstrap, JavaScript, PHP (Symfony) e muitas outras. Além disso, utilizo Git para versionamento de código e Metodologias Ágeis para facilitar o fluxo do trabalho. Também tenho habilidades em UI Design e uso o Adobe XD para a construção de telas.
 
 <h2>⚡ Skills</h2>
 
