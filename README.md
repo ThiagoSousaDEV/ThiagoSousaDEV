@@ -2,27 +2,20 @@
   Olá! Eu sou o Thiago 🖐️
 </h1>
 
+<h2>😎 About</h2>
+
 <p align="center">   
-  <a href="mailto:contato@thiagosousadev.net" target="_blank"><img src="https://img.shields.io/badge/Email-contato@thiagosousadev.net-red?style=flat&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/thiagosousadev" target="_blank"><img src="https://img.shields.io/badge/linkedin-blue?style=flat&logo=linkedin"></a>
-  <a href="https://thiagosousadev.net" target="_blank"><img src="https://img.shields.io/badge/website-thiagosousadev.net-FF4500?style=flat"></a>
+[![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge&logo=github)]() [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)]() 
+ [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)]()
 </p>
 
 I'm a Front-End Developer with international experience and I work with a variety of technologies, including HTML, CSS, Bootstrap, JavaScript, PHP (Symfony) and many others. In addition, I use Git for code versioning and Agile Methodologies to facilitate the workflow. I also have UI Design skills and use Adobe XD to build screens.
-
-<h2>📃 Stats</h2>
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thiagosousadev&show_icons=true&theme=algolia&include_all_commits=true&border_radius=8&hide_border=true&count_private=true" style="max-width: 100%;"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosousadev&border_radius=8&hide_border=true&layout=compact&langs_count=7&theme=algolia" style="max-width: 100%;"/>
-</div>
-
 
 <h2>⚡ Skills</h2>
 
 <table align= "center">
   <tr>
-     <td align="center" width="140" height="112.43">
+     <td align="center" width="140" height="100">
       <a href="#">
         <img src="./html5logo.svg" width="48" height="48" alt="HTML5" />
       </a>
@@ -40,7 +33,6 @@ I'm a Front-End Developer with international experience and I work with a variet
       </a>
       <br>Bootstrap
     </td>
-    <tr>
     <td align="center"  width="140" height="112.43">
       <a href="#">
         <img src="./vuejslogo.svg" width="48" height="48" alt="Vue.js" />
@@ -62,7 +54,16 @@ I'm a Front-End Developer with international experience and I work with a variet
    </tr> 
 </table>
 
-<h2> 🧔 Quando não estou desenvolvendo... </h2>
+<h2>📃 Stats</h2>
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thiagosousadev&show_icons=true&theme=algolia&include_all_commits=true&border_radius=8&hide_border=true&count_private=true" style="max-width: 100%;"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosousadev&border_radius=8&hide_border=true&layout=compact&langs_count=7&theme=algolia" style="max-width: 100%;"/>
+</div>
+
+
+
+<h2> 😜 Quando não estou desenvolvendo... </h2>
 
 - ✨ **Hobbies**: Fotografia, Desing, Streaming
 - 🎮 **jogos**: efootball PES 2021, BF1 
