@@ -7,7 +7,7 @@
 <p align="center">   
    <a href="mailto:contato@thiagosousadev.net" target="_blank"><img src="https://img.shields.io/badge/Contact-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/thiagosousadev" target="_blank"><img src="https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://www.linkedin.com/in/thiagosousadev" target="_blank"><img src="https://img.shields.io/badge/WebSite-thiagosousadev.net-006E93?style=for-the-badge&logo=rss&logoColor=white"></a>
+  <a href="https://www.thiagosousadev.net" target="_blank"><img src="https://img.shields.io/badge/WebSite-thiagosousadev.net-006E93?style=for-the-badge&logo=rss&logoColor=white"></a>
 </p>
 I am Thiago 🧔
 
