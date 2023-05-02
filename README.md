@@ -31,6 +31,12 @@ Desenvolvedor Front-End com experiência internacional e trabalho com uma varied
     </td>
     <td align="center"  width="140" height="112.43">
       <a href="#">
+        <img src="./javascriptlogo.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center"  width="140" height="112.43">
+      <a href="#">
         <img src="./bootstraplogo.svg" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>Bootstrap
@@ -40,12 +46,6 @@ Desenvolvedor Front-End com experiência internacional e trabalho com uma varied
         <img src="./vuejslogo.svg" width="48" height="48" alt="Vue.js" />
       </a>
       <br>Vue.js
-    </td>
-      <td align="center"  width="140" height="112.43">
-      <a href="#">
-        <img src="./javascriptlogo.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
     </td>
        <td align="center"  width="140" height="112.43">
       <a href="#">
