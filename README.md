@@ -2,7 +2,7 @@
   Hello World 🌎
 </h1>
 
-<h2>😎 About</h2>
+<h2>🚀 About</h2>
 
 <p align="center">   
    <a href="mailto:contato@thiagosousadev.net" target="_blank"><img src="https://img.shields.io/badge/Contact-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -13,7 +13,7 @@ I am Thiago 🧔
 
 Desenvolvedor Front-End com experiência internacional e trabalho com uma variedade de tecnologias, incluindo HTML, CSS, Bootstrap, JavaScript, PHP (Symfony) e muitas outras. Além disso, utilizo Git para versionamento de código e Metodologias Ágeis para facilitar o fluxo do trabalho. Também tenho habilidades em UI Design e uso o Adobe XD para a construção de telas.
 
-<h2>⚡ Skills</h2>
+<h2>🛠 Skills</h2>
 
 <table align= "center">
   <tr>
@@ -41,6 +41,7 @@ Desenvolvedor Front-End com experiência internacional e trabalho com uma varied
       </a>
       <br>Bootstrap
     </td>
+   <!-- ESTUDANDO
     <td align="center"  width="140" height="112.43">
       <a href="#">
         <img src="./vuejslogo.svg" width="48" height="48" alt="Vue.js" />
@@ -53,10 +54,11 @@ Desenvolvedor Front-End com experiência internacional e trabalho com uma varied
       </a>
       <br>PHP
     </td>
+    -->
    </tr> 
 </table>
 
-<h2>📃 Stats</h2>
+<h2>📈 Stats</h2>
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thiagosousadev&show_icons=true&theme=algolia&include_all_commits=true&border_radius=8&hide_border=true&count_private=true" style="max-width: 100%;"/>
@@ -65,7 +67,7 @@ Desenvolvedor Front-End com experiência internacional e trabalho com uma varied
 
 
 
-<h2> 😜 Quando não estou desenvolvendo... </h2>
+<h2>😎 Quando não estou desenvolvendo... </h2>
 
 - ✨ **Hobbies**: Fotografia, Desing, Streaming
 - 🎮 **jogos**: efootball PES 2021, BF1 
