@@ -11,7 +11,7 @@
 </p>
 I am Thiago 🧔
 
-Desenvolvedor Front-End com experiência internacional e trabalho com uma variedade de tecnologias, incluindo HTML, CSS, Bootstrap, JavaScript, PHP (Symfony) e muitas outras. Além disso, utilizo Git para versionamento de código e Metodologias Ágeis para facilitar o fluxo do trabalho. Também tenho habilidades em UI Design e uso o Adobe XD para a construção de telas.
+Desenvolvedor Front-End com experiência internacional, trabalho com uma variedade de tecnologias, incluindo HTML, CSS, Bootstrap, JavaScript, PHP (Symfony) e muitas outras. Além disso, utilizo Git para versionamento de código e Metodologias Ágeis para facilitar o fluxo do trabalho. Também tenho habilidades em UI Design e uso o Adobe XD para a construção de telas.
 
 <h2>🛠 Skills</h2>
 
