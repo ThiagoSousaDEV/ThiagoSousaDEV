@@ -41,7 +41,6 @@ Desenvolvedor Front-End com experiência internacional, trabalho com uma varieda
       </a>
       <br>Bootstrap
     </td>
-   <!-- ESTUDANDO
     <td align="center"  width="140" height="112.43">
       <a href="#">
         <img src="./vuejslogo.svg" width="48" height="48" alt="Vue.js" />
@@ -50,11 +49,10 @@ Desenvolvedor Front-End com experiência internacional, trabalho com uma varieda
     </td>
        <td align="center"  width="140" height="112.43">
       <a href="#">
-        <img src="./phplogo.svg" width="48" height="48" alt="PHP" />
+        <img src="./gitlablogo.svg" width="48" height="48" alt="GitLab" />
       </a>
-      <br>PHP
+      <br>GitLab
     </td>
-    -->
    </tr> 
 </table>
 
