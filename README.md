@@ -49,9 +49,9 @@ Sou Desenvolvedor Frontend com experiência em HTML, CSS, Bootstrap, JavaScript,
     </td>
        <td align="center"  width="140" height="112.43">
       <a href="#">
-        <img src="./gitlablogo.svg" width="48" height="48" alt="GitLab" />
+        <img src="./gitlogo.svg" width="48" height="48" alt="Git" />
       </a>
-      <br>GitLab
+      <br>Git
     </td>
    </tr> 
 </table>
