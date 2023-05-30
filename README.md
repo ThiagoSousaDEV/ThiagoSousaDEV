@@ -63,8 +63,7 @@ Sou Desenvolvedor Frontend com experiência em HTML, CSS, Bootstrap, JavaScript,
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosousadev&border_radius=8&hide_border=true&layout=compact&langs_count=7&theme=algolia" style="max-width: 100%;"/>
 </div>
 
-
-
+<!--
 <h2>😎 Quando não estou desenvolvendo... </h2>
 
 - ✨ **Hobbies**: Fotografia, Desing, Streaming
@@ -72,3 +71,4 @@ Sou Desenvolvedor Frontend com experiência em HTML, CSS, Bootstrap, JavaScript,
 - 🎥 **Filmes**: Interestelar, Perdido em Marte
 - 📺 **Séries**: Supernatural, Under The Dome
 - 🎵 **Musica**: Forró Antigo
+-->
