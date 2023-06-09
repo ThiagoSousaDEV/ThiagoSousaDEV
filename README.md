@@ -8,13 +8,6 @@ I am Thiago 🧔
 
 Sou Desenvolvedor Frontend com experiência em HTML, CSS, Bootstrap, JavaScript, Jquery, PHP (Symfony), além de conhecimento em Vue.js e outras tecnologias. Utilizo Git para controle de versão e aplico Metodologias Ágeis para otimizar o fluxo de trabalho. Também possuo habilidades em UI Design e utilizo o Adobe XD para criar telas.
 
-
-<p align="center">   
-   <a href="mailto:contato@thiagosousadev.net" target="_blank"><img src="https://img.shields.io/badge/Contact-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/thiagosousadev" target="_blank"><img src="https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://www.thiagosousadev.net" target="_blank"><img src="https://img.shields.io/badge/WebSite-thiagosousadev.net-006E93?style=for-the-badge&logo=rss&logoColor=white"></a>
-</p>
-
 <h2>🛠 Skills</h2>
 
 <table align= "center">
