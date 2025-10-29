@@ -38,7 +38,7 @@ Sou Desenvolvedor Frontend com experiência em HTML, CSS, Bootstrap, JavaScript,
     </td>
     <td align="center"  width="140" height="112.43">
       <a href="#">
-        <img src="./vuejslogo.svg" width="48" height="48" alt="Vue.js" />
+        <img src="./vuejslogo.png" width="48" height="48" alt="Vue.js" />
       </a>
       <br>Vue.js
     </td>
